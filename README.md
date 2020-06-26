@@ -12,3 +12,6 @@
 4.```npm install```
 
 5.```npm start ```
+
+
+![couter and todo](https://user-images.githubusercontent.com/57809579/85909092-82a25e80-b7ee-11ea-9363-438234364dd9.png)
