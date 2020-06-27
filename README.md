@@ -1,4 +1,4 @@
-# Counter and TodoList
+# Counter and TodoList - React Hooks,Redux
 
 
 #Local Instalação
